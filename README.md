@@ -30,7 +30,7 @@ GIF created with ...  [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-The biggest difficulty I had with this app was understanding the recycler view and passing data through it. However with the resources available online it was simple enough to understand.
+The biggest difficulty I had with this app was understanding the recycler view and passing data through it. However with the resources available online specifically codepath and developers.android.com it was enough to get a basic understanding.
 ## License
 
     Copyright [2023] [Jason Kang]
