@@ -34,7 +34,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-The biggest difficulty I had with this app was understanding the recycler view and passing data through it. However with the resources available online specifically codepath and developers.android.com it was enough to get a basic understanding.
+The biggest difficulty I had with this app was understanding the recycler view and passing data through it. However with the resources available online (developers.android.com) it was enough to get a basic understanding. Recyclerview makes it easy to display data as well as browse.
 ## License
 
     Copyright [2023] [Jason Kang]
